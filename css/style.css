@@ -8,7 +8,7 @@ html{
 body{
     font-family: 'Open Sans', sans-serif;
     font-size: 1.6rem;
-    line-height: 2;
+    background-color: #552c2c;
 }
 /* GLOBALES */
 
@@ -38,8 +38,19 @@ img{
 
 /* ACABAN GLOBALES */
 
-.barra{
+header{
+    background-color: #3f3f3f;
+}
+.bar{
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+.barra a{
+    margin-left: 10px;
+    spacing: 5px;
+}
+a{
+    text-decoration: none;
+    color: #c6c6c7;
 }
