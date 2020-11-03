@@ -56,11 +56,14 @@ a{
     color: #ffffff;
 }
 a:hover{
-    color: #612e2e;
+    color: #2a301c;
 }
 
 .headbod{
-    background-color: #612e2e;
+    background-image: url(/images/LecoolF.jpeg);
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-color: #000000;
     height: 90vh;
     margin: 0;
     display: flex;
