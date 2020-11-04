@@ -50,6 +50,8 @@ img{
 }
 .barra a{
     margin-left: 2rem;
+    font-weight: bold;
+    font-size: 1.8rem;
 }
 a{
     text-decoration: none;
@@ -59,18 +61,18 @@ a:hover{
     color: #2a301c;
 }
 
-.headbod{
-    background-image: url(/images/LecoolF.jpeg);
+header{
+    background-image: url(/images/head1.jpeg);
     background-repeat: no-repeat;
     background-position: center; 
+    background-size: cover;
     background-color: #000000;
     height: 90vh;
-    margin: 0;
     display: flex;
     justify-content: flex-end;
     align-items: center;
 }
-.headbod h1{
+header h1{
     margin-right: 14%;
     color: #ffffff;
     font-size: 6.5rem;
