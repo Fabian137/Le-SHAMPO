@@ -38,7 +38,7 @@ img{
 /* ACABAN GLOBALES */
 
 .secnav{
-    background-color: #3f3f3f;
+    background-color: #141414;
 }
 .bar{
     display: flex;
@@ -62,7 +62,7 @@ a:hover{
 }
 
 header{
-    background-image: url(/images/head5.jpeg);
+    background-image: url(/images/head4.jpeg);
     background-repeat: no-repeat;
     background-position: center; 
     background-size: cover;
